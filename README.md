@@ -2,9 +2,9 @@
 
 ## Deployment
 
-The Sweet Treat Bakery website is deployed using Netlify. You can access the live version by clicking the link below:
+The QuickStore Checkout website is deployed using Netlify. You can access the live version by clicking the link below:
 
-### [**QuickStore**](https://)
+### [**QuickStore**](https://https://quickstore-checkout.netlify.app)
 
 ## Description
 
@@ -21,7 +21,7 @@ QuickStore project is an online shopping checkout website.
 ## Functionalities
 
 - Adding, listing, deleting products
-- Updating product details
+- Updating product details and quantities
 - About page
 
 ## Getting Started
