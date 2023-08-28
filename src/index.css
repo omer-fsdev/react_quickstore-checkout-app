@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.nav-link {
+  font-family: Garamond, serif;
+  color: #7e49e7 !important;
+}
+
+.nav-link-2 {
+  font-family: Garamond, serif;
+  color: #f6931c !important;
+  text-decoration: none;
+}
+
+.home-text {
+  color: #f6931c !important;
+  font-family: "Courier New", monospace;
+}
