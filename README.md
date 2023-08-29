@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 
 Enjoy exploring QuickStore!
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+**<p align="center">Created with ❤️ by Ömer.</p>**
