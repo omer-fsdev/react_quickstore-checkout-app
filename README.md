@@ -4,7 +4,7 @@
 
 The QuickStore Checkout website is deployed using Netlify. You can access the live version by clicking the link below:
 
-### [**QuickStore**](https://https://quickstore-checkout.netlify.app)
+### [**QuickStore**](https://quickstore-checkout.netlify.app)
 
 ## Description
 
